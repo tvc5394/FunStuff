@@ -1,2 +1,2 @@
 # FunStuff
-Fun and useful stuff for you to download and play with!
+Fun and useful codes for you to download and play with!
